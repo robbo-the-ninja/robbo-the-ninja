@@ -1,6 +1,6 @@
 ![my_banner](banner.png)
 # 🌎 Hello, world:
-👋 I’m Roberto and I'm currently finishing a Data Analytics Bootcamp.<br>🧠 Learning Python, SQL, Excel & data visualization tools.<br>🌱 Passionate about turning data into insights — one project at a time.<br>🚀 Excited to grow, build my portfolio, and contribute to the data community!
+👋 I’m Roberto and I recently finished a Data Analytics Bootcamp.<br>🧠 I´m familiar with Python, SQL, Excel & Power BI.<br>🌱 Passionate about turning data into insights — one project at a time.<br>🚀 Excited to grow, build my portfolio, and contribute to the data community!
 
 
 ## 🌐 Socials:
