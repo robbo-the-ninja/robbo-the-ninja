@@ -1,4 +1,4 @@
-![my_banner](<img width="1584" height="396" alt="Banner para Linkedin Licenciada Marketing Minimalista Beige" src="https://github.com/user-attachments/assets/fe1e9f5f-4bf2-46a8-9de2-5fd2cfa580d0" />)
+![my_banner](<img width="1584" height="396" alt="Banner para Linkedin Licenciada Marketing Minimalista Beige" src="https://github.com/user-attachments/assets/fe1e9f5f-4bf2-46a8-9de2-5fd2cfa580d0" />) (<img width="1574" height="379" alt="image" src="https://github.com/user-attachments/assets/b3caa680-c247-4021-9bf4-de888743155e" />)
 # 🌎 Hello, world:
 👋 I’m Roberto and I recently finished a Data Analytics Bootcamp.<br>🧠 I´m familiar with Python, SQL, Excel & Power BI.<br>🌱 Passionate about turning data into insights — one project at a time.<br>🚀 Excited to grow, build my portfolio, and contribute to the data community!
 
