@@ -1,7 +1,7 @@
 <img width="1574" height="379" alt="image" src="https://github.com/user-attachments/assets/a7950477-0db4-46f4-8426-36bb0cbd2e3e" />
 
 # 🌎 Hello
-👋 I’m Roberto and I recently finished a Data Analytics Bootcamp.<br>
+👋 I’m Roberto and I am an engineer. I recently finished a Data Analytics Bootcamp.<br>
 🧠 I´m familiar with Python, SQL, Excel & Power BI.<br>
 🌱 Passionate about turning data into insights. I'm a technology enthusiast.<br>
 🤓 I'm very curious and I'm always learning something new.<br>
