@@ -5,7 +5,7 @@
 🧠 I´m familiar with Python, SQL, Excel & Power BI.<br>
 🌱 Passionate about turning data into insights. I'm a technology enthusiast.<br>
 🤓 I'm very curious and I'm always learning something new.<br>
-🚀 Excited to grow, build my portfolio, and contribute to the data community!
+🚀 Excited to grow as a professional and build my portfolio!
 
 
 ## 🌐 Socials:
